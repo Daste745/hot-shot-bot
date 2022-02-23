@@ -45,14 +45,14 @@ def main():
         )
 
         embed = DiscordEmbed(
-            title="Gorący Strzał",
+            title="Hot Shot",
             description=f"[{item_name}]({product_url})",
             url="https://www.x-kom.pl/goracy_strzal",
             color=242424,
         )
         embed.set_thumbnail(url=image_url)
         embed.add_embed_field(
-            name="Cena",
+            name="Price",
             value=f"~~**{old_price}**~~ ➡️ **{new_price}**",
             inline=False,
         )
