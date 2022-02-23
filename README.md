@@ -25,3 +25,5 @@ And run the bot:
 ```sh
 python main.py
 ```
+
+Alternatively, you can build a Docker image using the included [Dockerfile](Dockerfile).

@@ -1,0 +1,10 @@
+.vscode/
+venv/
+.git
+.gitignore
+Dockerfile
+.env
+.env.example
+LICENSE
+README.md
+demo.png
