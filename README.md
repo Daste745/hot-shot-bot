@@ -4,6 +4,8 @@ Discord webhook bot for notifying about X-Kom.pl "Hot Shots".
 
 Hot Shots are quick product sales with limited amounts of stock. This bot can help you get notifications about new Hot Shots quicker than in the mobile app, which can sometimes be late.
 
+![Example webhook message](demo.png)
+
 ## Setup
 Set the environment variable `WEBHOOK_URL` to a webhook URL. You can use the `.env` file for that.
 
